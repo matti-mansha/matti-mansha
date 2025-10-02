@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matti Ur Rehman</h1>
-<h3 align="center">A passionate Tech Co-Founder & CTO: MANTIQI & CORE INVEST INTEL</h3>
+<h3 align="center">A passionate Tech Co-Founder & CTO: MANTIQI & TABTILA</h3>
 
 
 
